@@ -2,6 +2,9 @@
 
 Mijn idee voor een Peggle game is een versie waarin je op koekjes schiet om te XP verdienen.
 
+<img width="740" height="493" alt="Peggle_Voorbeeld" src="https://github.com/user-attachments/assets/51db89b6-4d8a-4c4c-a5db-961fa2d3997b" />
+
+
 Soms zitten er ook gouden koekjes in het spel, als je die raakt kunnen er meerdere dingen gebeuren:
 - Koekjes Storm: De hele map wordt gevuld met koekjes.
 - Koekjes Razernij: Ieder koekje dat je raakt geeft dubbel zoveel XP.
