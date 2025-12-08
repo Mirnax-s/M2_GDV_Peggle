@@ -10,7 +10,7 @@ public class TargetCollision : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Hit!");
+        Debug.Log("Cookie!");
     }
 
     // Update is called once per frame
