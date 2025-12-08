@@ -12,26 +12,26 @@ Soms zitten er ook gouden koekjes in het spel, als je die raakt kunnen er meerde
 - `Koekjes-bal:` Je krijgt een extra bal om nog eens mee te schieten.
 - `Verdubbelend Koekje:` wanneer je dit koekje raakt, split de bal in tweeën op om extra veel koekjes te kunnen raken.
 
-
+#
 # 2.1 Forces & Collisions
 
 Het maken van een schietende bal en collisions.
 
 https://github.com/user-attachments/assets/27be38cd-75c2-4526-b567-ae9641b37e05
 
-
+#
 # 2.2 Aim, Shoot en Line
 
 Het maken van een line-renderer die meebeweegt met de cursor en groeit om te laten zien hoe hard de bal wordt geschoten.
 
 https://github.com/user-attachments/assets/416c5dec-2595-4a61-91e1-9bb2da19394d
 
-
+#
 # 3.1 Score & Triggers
 
 Het toevoegen van een script dat de score bijhoudt & peggles laten verdwijnen na een aantal hits.
 
 https://github.com/user-attachments/assets/94c17604-86b5-48dd-9057-72569a2fe467
 
-
+#
 # 3.2
