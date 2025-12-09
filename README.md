@@ -38,4 +38,8 @@ Het toevoegen van een script dat de score bijhoudt & peggles laten verdwijnen na
 https://github.com/user-attachments/assets/94c17604-86b5-48dd-9057-72569a2fe467
 
 #
-# 3.2
+# 3.2 Combos, Multiplier, Events
+
+Het toevoegen van een multiplier
+
+https://github.com/user-attachments/assets/2f75d082-627c-41bc-af60-6014fe4f0d9e
