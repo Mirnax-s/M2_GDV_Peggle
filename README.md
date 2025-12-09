@@ -51,3 +51,5 @@ Het toevoegen van een multiplier
 https://github.com/user-attachments/assets/2f75d082-627c-41bc-af60-6014fe4f0d9e
 
 [BumperHit.cs](https://github.com/39813ma/M2_GDV_Peggle/blob/main/Assets/Scripts/BumperHit.cs)
+
+[ComboSystem.cs](https://github.com/39813ma/M2_GDV_Peggle/blob/main/Assets/Scripts/ComboSystem.cs)
