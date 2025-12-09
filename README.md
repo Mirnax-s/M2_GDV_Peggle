@@ -41,6 +41,8 @@ Het toevoegen van een script dat de score bijhoudt & peggles laten verdwijnen na
 
 https://github.com/user-attachments/assets/94c17604-86b5-48dd-9057-72569a2fe467
 
+[ScoreManager.cs](https://github.com/39813ma/M2_GDV_Peggle/blob/main/Assets/Scripts/ScoreManager.cs)
+
 #
 # 3.2 Combos, Multiplier, Events
 
