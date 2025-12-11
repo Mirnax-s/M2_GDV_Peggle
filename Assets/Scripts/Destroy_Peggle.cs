@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Peggle : MonoBehaviour
 {
-    public int hitsToDestroy = 3;     // totaal aantal hits dat deze peg aankan
-    public int pointsPerHit = 10;     // aantal punten dat één hit waard is
+    public int hitsToDestroy = 5;     // totaal aantal hits dat deze peg aankan
+    public int pointsPerHit = 1;     // aantal punten dat één hit waard is
 
 
   private void OnCollisionEnter2D(Collision2D collision)

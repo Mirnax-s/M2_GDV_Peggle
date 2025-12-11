@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ShootBall : MonoBehaviour
 {
-    public float ShootForce = 500f;
+    public float ShootForce = 300f;
     public Vector3 Direction = new Vector3(0f, 1f, 0f);
 
     private Rigidbody2D rb;
