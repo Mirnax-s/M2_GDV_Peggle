@@ -1,0 +1,21 @@
+using UnityEngine;
+
+public class Big_Peggle : MonoBehaviour
+{
+    public int hitsToDestroy = 5;     // totaal aantal hits dat deze peg aankan
+    public int pointsPerHit = 1;     // aantal punten dat één hit waard is
+
+
+  private void OnCollisionEnter2D(Collision2D collision)
+   {
+
+        // aftellen
+        hitsToDestroy--;
+
+        // check of de peg nu op is
+        if (hitsToDestroy <= 0)
+        {
+            Destroy(gameObject, 0.25f);
+        } 
+   }
+}
