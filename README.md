@@ -90,6 +90,8 @@ Ik heb gekozen voor een intens orchestraal nummer zodat de game meer instensief 
 
 Voor de speciale power in de game heb ik een beetje afgeweken van mijn originele idee. Inplaats van meerdere power-ups in de game te stoppen heb ik voor het eindproduct een groot en klein gouden koekje gemaakt. Het kleine koekje zit verstopt achter de grote.
 
+![Schermopname 2026-01-26 150805](https://github.com/user-attachments/assets/72e08011-e6d3-4799-9687-fd0d3e04c100)
+
 ### Grote koekje: Geeft geen punten en doet er lang over om te breken.
 
 ### Kleine Goude Koekje: Geeft heel veel punten.
