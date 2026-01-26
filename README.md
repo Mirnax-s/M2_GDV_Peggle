@@ -68,3 +68,11 @@ Het toevoegen van een UI
 Ik heb gekozen voor een simpele UI met de titel duidelijk in het midden geplaatst.
 Links- en rechtsbovenin zitten de score & multiplier, duidelijk zichtbaar en niet in de weg van de gameplay.
 Linksonderin zit ook een stuk tekst waarmee de special move van de game wordt uitgelegd.
+
+#
+# 4.2 Scores versturen
+
+Het versturen van scores naar het canvas
+
+![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/e7356d08-1ec2-4af7-b17b-f8e25e46a8b3)
+
