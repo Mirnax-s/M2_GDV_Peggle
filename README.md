@@ -65,3 +65,6 @@ Het toevoegen van een UI
 
 ![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/a021704a-0c24-43e5-8d62-10d378b9e03b)
 
+Ik heb gekozen voor een simpele UI met de titel duidelijk in het midden geplaatst.
+Links- en rechtsbovenin zitten de score & multiplier, duidelijk zichtbaar en niet in de weg van de gameplay.
+Linksonderin zit ook een stuk tekst waarmee de special move van de game wordt uitgelegd.
