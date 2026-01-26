@@ -78,3 +78,9 @@ Het versturen van scores naar het canvas
 
 ![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/e7356d08-1ec2-4af7-b17b-f8e25e46a8b3)
 
+#
+# 5.2 Particles , Sounds & Shakes
+
+Ik heb gekozen voor een intens orchestraal nummer zodat de game meer instensief wordt
+
+![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/e7356d08-1ec2-4af7-b17b-f8e25e46a8b3)
