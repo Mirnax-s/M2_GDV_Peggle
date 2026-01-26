@@ -62,3 +62,6 @@ Het toevoegen van een UI
 <img width="1141" height="724" alt="Schermafbeelding 2026-01-26 112816" src="https://github.com/user-attachments/assets/4882ba7b-4314-41d3-90a9-f7d73967e319" />
 
 <img width="1276" height="837" alt="Schermafbeelding 2026-01-26 112828" src="https://github.com/user-attachments/assets/b7d6d0a1-a2ae-4716-b2fd-18fe214fd72a" />
+
+![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/a021704a-0c24-43e5-8d62-10d378b9e03b)
+
