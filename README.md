@@ -74,5 +74,7 @@ Linksonderin zit ook een stuk tekst waarmee de special move van de game wordt ui
 
 Het versturen van scores naar het canvas
 
+[UIScoreBoard.cs](https://github.com/Mirnax-s/M2_GDV_Peggle/blob/main/Assets/Scripts/UIScoreBoard.cs)
+
 ![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/e7356d08-1ec2-4af7-b17b-f8e25e46a8b3)
 
