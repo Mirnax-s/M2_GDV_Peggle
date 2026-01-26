@@ -84,3 +84,12 @@ Het versturen van scores naar het canvas
 Ik heb gekozen voor een intens orchestraal nummer zodat de game meer instensief wordt
 
 ![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/e7356d08-1ec2-4af7-b17b-f8e25e46a8b3)
+
+#
+# Speciale power
+
+Voor de speciale power in de game heb ik een beetje afgeweken van mijn originele idee. Inplaats van meerdere power-ups in de game te stoppen heb ik voor het eindproduct een groot en klein gouden koekje gemaakt. Het kleine koekje zit verstopt achter de grote.
+
+### Grote koekje: Geeft geen punten en doet er lang over om te breken.
+
+### Kleine Goude Koekje: Geeft heel veel punten.
