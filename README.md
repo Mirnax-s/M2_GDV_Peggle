@@ -53,3 +53,18 @@ https://github.com/user-attachments/assets/2f75d082-627c-41bc-af60-6014fe4f0d9e
 [BumperHit.cs](https://github.com/39813ma/M2_GDV_Peggle/blob/main/Assets/Scripts/BumperHit.cs)
 
 [ComboSystem.cs](https://github.com/39813ma/M2_GDV_Peggle/blob/main/Assets/Scripts/ComboSystem.cs)
+
+#
+# 4.1 Leveldesign & UI
+
+Het toevoegen van een UI
+
+<img width="1141" height="724" alt="Schermafbeelding 2026-01-26 112816" src="https://github.com/user-attachments/assets/4882ba7b-4314-41d3-90a9-f7d73967e319" />
+
+<img width="1276" height="837" alt="Schermafbeelding 2026-01-26 112828" src="https://github.com/user-attachments/assets/b7d6d0a1-a2ae-4716-b2fd-18fe214fd72a" />
+
+![Schermopname 2026-01-26 112638](https://github.com/user-attachments/assets/a021704a-0c24-43e5-8d62-10d378b9e03b)
+
+Ik heb gekozen voor een simpele UI met de titel duidelijk in het midden geplaatst.
+Links- en rechtsbovenin zitten de score & multiplier, duidelijk zichtbaar en niet in de weg van de gameplay.
+Linksonderin zit ook een stuk tekst waarmee de special move van de game wordt uitgelegd.
